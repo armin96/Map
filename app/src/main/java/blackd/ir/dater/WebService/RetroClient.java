@@ -1,6 +1,6 @@
 package blackd.ir.dater.WebService;
 
-import blackd.ir.dater.ApiService;
+
 import blackd.ir.dater.WebService.ApiService;
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;

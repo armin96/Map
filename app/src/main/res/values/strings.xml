@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Dater</string>
     <string name="title_activity_maps">Map</string>
+    <string name="string_some_thing_wrong">k</string>
+    <string name="string_internet_connection_not_available">no</string>
+    <string name="string_click_to_load">kj</string>
 </resources>

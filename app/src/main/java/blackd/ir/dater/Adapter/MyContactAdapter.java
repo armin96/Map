@@ -3,12 +3,17 @@ package blackd.ir.dater.Adapter;
 import android.content.Context;
 import android.view.LayoutInflater;
 import android.view.View;
+import android.view.ViewGroup;
+import android.widget.ArrayAdapter;
 import android.widget.ImageView;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
 import com.squareup.picasso.Picasso;
 
+import java.util.List;
+
+import blackd.ir.dater.Model.Contact;
 import blackd.ir.dater.R;
 
 public class MyContactAdapter extends ArrayAdapter<Contact> {
@@ -25,7 +30,7 @@ public class MyContactAdapter extends ArrayAdapter<Contact> {
         contactList = objects;
     }
 
-    @Override
+   /* @Override
     public Contact getItem(int position) {
         return contactList.get(position);
     }
@@ -69,5 +74,5 @@ public class MyContactAdapter extends ArrayAdapter<Contact> {
             TextView textViewEmail = (TextView) rootView.findViewById(R.id.textViewEmail);
             return new ViewHolder(rootView, imageView, textViewName, textViewEmail);
         }
-    }
+    }*/
 }
