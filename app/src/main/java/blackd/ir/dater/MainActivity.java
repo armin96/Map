@@ -23,9 +23,8 @@ import org.json.JSONObject;
 
 import java.util.ArrayList;
 
-import blackd.ir.dater.Adapter.MyContactAdapter;
 import blackd.ir.dater.Model.Contact;
-import blackd.ir.dater.Model.Keys;
+import blackd.ir.dater.Utils.Keys;
 import blackd.ir.dater.WebService.JSONParser;
 
 public class MainActivity  extends AppCompatActivity{

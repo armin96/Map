@@ -4,4 +4,8 @@
     <string name="string_some_thing_wrong">k</string>
     <string name="string_internet_connection_not_available">no</string>
     <string name="string_click_to_load">kj</string>
+    <string name="string_getting_json_title">getting json</string>
+    <string name="string_getting_json_message">wating...</string>
+    <string name="gravity_start_snapcount_1_timeperinch_100ms">Gravity: Start, SnapCount: 1, timePerInch: 100ms</string>
+    <string name="gravity_center_snapcount_2_timeperinch_120ms">Gravity: Center, SnapCount: 2, timePerInch: 120ms</string>
 </resources>
